@@ -37,7 +37,7 @@ Video Walkthough : https://drive.google.com/file/d/16yeVXlul346PmFM5IydVlMN_PUh3
  will look into how to make the code more cleaner and more efficient 
 
  # Deployment 
- Deployed app :  https://kevinrivera14.github.io/Team-Profile-Generator14/
+
  Github repository : https://github.com/KevinRivera14/Team-Profile-Generator14 
 
 created by Kevin Rivera 2023 
