@@ -32,4 +32,7 @@ i created a ASSETS folder and added my ScreenShot within that folder.
 # Video Walkthough 
 Video Walkthough : https://drive.google.com/file/d/16yeVXlul346PmFM5IydVlMN_PUh3IG5q/view 
 
+## Contribution 
+we are no longer taking Contributions at this time. 
+
 created by Kevin Rivera 2023 
