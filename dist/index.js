@@ -27,7 +27,7 @@ const managerPrompts = () => {
 			{
 				type: 'input',
 				name: 'officeNumber',
-				message: 'What is the new Manager office number?',
+				message: 'What is the new Manager office number going to be ?',
 			},
 		])
 		.then(answers => {
